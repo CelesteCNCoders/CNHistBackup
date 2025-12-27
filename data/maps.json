@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "exported_at": "2025-12-27T06:31:46+00:00",
+        "version": "1.0"
+    },
+    "count": 5,
+    "maps": [
+        {
+            "id": 9,
+            "name": "笨猪2",
+            "stars": 4,
+            "author": "猪猪猪",
+            "image_path": "hist\/maps\/9\/ea51a60290df7948.jpg",
+            "publish_url": null,
+            "sort_order": 1,
+            "created_at": "2025-12-23 13:17:27",
+            "updated_at": "2025-12-23 13:17:27",
+            "recommend_up": 1,
+            "recommend_down": 0
+        },
+        {
+            "id": 10,
+            "name": "猪猪3",
+            "stars": 1,
+            "author": "11",
+            "image_path": "hist\/maps\/10\/4be9f5bdfc7ffbe1.jpg",
+            "publish_url": null,
+            "sort_order": 1,
+            "created_at": "2025-12-23 13:17:48",
+            "updated_at": "2025-12-23 13:17:48",
+            "recommend_up": 0,
+            "recommend_down": 0
+        },
+        {
+            "id": 11,
+            "name": "Reach For The Stars",
+            "stars": 5,
+            "author": "krzysiekee",
+            "image_path": "hist\/maps\/11\/a391af364c4d8b65.jpg",
+            "publish_url": "https:\/\/gamebanana.com\/mods\/615835",
+            "sort_order": 1,
+            "created_at": "2025-12-23 14:10:30",
+            "updated_at": "2025-12-23 14:10:30",
+            "recommend_up": 0,
+            "recommend_down": 1
+        },
+        {
+            "id": 13,
+            "name": "你确诊了笨笨",
+            "stars": 10,
+            "author": "笨猪",
+            "image_path": "hist\/maps\/13\/209f7d128deac887.jpg",
+            "publish_url": "1",
+            "sort_order": 1,
+            "created_at": "2025-12-23 18:14:55",
+            "updated_at": "2025-12-23 18:14:55",
+            "recommend_up": 1,
+            "recommend_down": 0
+        },
+        {
+            "id": 8,
+            "name": "鉴定为笨猪",
+            "stars": 5,
+            "author": "11",
+            "image_path": "hist\/maps\/8\/0a76ca310165478d.jpg",
+            "publish_url": "https:\/\/pigpig.com",
+            "sort_order": 2,
+            "created_at": "2025-12-23 11:48:41",
+            "updated_at": "2025-12-23 13:16:14",
+            "recommend_up": 171,
+            "recommend_down": 130
+        }
+    ]
+}

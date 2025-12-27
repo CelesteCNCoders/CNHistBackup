@@ -1,0 +1,2116 @@
+{
+    "meta": {
+        "exported_at": "2025-12-27T06:31:46+00:00",
+        "version": "1.0"
+    },
+    "count": 301,
+    "players": [
+        {
+            "id": 2,
+            "username": "root",
+            "cleared_count": 4,
+            "max_stars": 10,
+            "total_stars": 24
+        },
+        {
+            "id": 4,
+            "username": "testuser001",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 5,
+            "username": "testuser002",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 6,
+            "username": "testuser003",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 7,
+            "username": "testuser004",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 8,
+            "username": "testuser005",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 9,
+            "username": "testuser006",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 10,
+            "username": "testuser007",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 11,
+            "username": "testuser008",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 12,
+            "username": "testuser009",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 13,
+            "username": "testuser010",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 14,
+            "username": "testuser011",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 15,
+            "username": "testuser012",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 16,
+            "username": "testuser013",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 17,
+            "username": "testuser014",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 18,
+            "username": "testuser015",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 19,
+            "username": "testuser016",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 20,
+            "username": "testuser017",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 21,
+            "username": "testuser018",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 22,
+            "username": "testuser019",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 23,
+            "username": "testuser020",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 24,
+            "username": "testuser021",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 25,
+            "username": "testuser022",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 26,
+            "username": "testuser023",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 27,
+            "username": "testuser024",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 28,
+            "username": "testuser025",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 29,
+            "username": "testuser026",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 30,
+            "username": "testuser027",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 31,
+            "username": "testuser028",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 32,
+            "username": "testuser029",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 33,
+            "username": "testuser030",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 34,
+            "username": "testuser031",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 35,
+            "username": "testuser032",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 36,
+            "username": "testuser033",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 37,
+            "username": "testuser034",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 38,
+            "username": "testuser035",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 39,
+            "username": "testuser036",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 40,
+            "username": "testuser037",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 41,
+            "username": "testuser038",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 42,
+            "username": "testuser039",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 43,
+            "username": "testuser040",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 44,
+            "username": "testuser041",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 45,
+            "username": "testuser042",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 46,
+            "username": "testuser043",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 47,
+            "username": "testuser044",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 48,
+            "username": "testuser045",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 49,
+            "username": "testuser046",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 50,
+            "username": "testuser047",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 51,
+            "username": "testuser048",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 52,
+            "username": "testuser049",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 53,
+            "username": "testuser050",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 54,
+            "username": "testuser051",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 55,
+            "username": "testuser052",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 56,
+            "username": "testuser053",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 57,
+            "username": "testuser054",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 58,
+            "username": "testuser055",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 59,
+            "username": "testuser056",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 60,
+            "username": "testuser057",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 61,
+            "username": "testuser058",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 62,
+            "username": "testuser059",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 63,
+            "username": "testuser060",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 64,
+            "username": "testuser061",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 65,
+            "username": "testuser062",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 66,
+            "username": "testuser063",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 67,
+            "username": "testuser064",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 68,
+            "username": "testuser065",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 69,
+            "username": "testuser066",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 70,
+            "username": "testuser067",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 71,
+            "username": "testuser068",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 72,
+            "username": "testuser069",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 73,
+            "username": "testuser070",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 74,
+            "username": "testuser071",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 75,
+            "username": "testuser072",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 76,
+            "username": "testuser073",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 77,
+            "username": "testuser074",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 78,
+            "username": "testuser075",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 79,
+            "username": "testuser076",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 80,
+            "username": "testuser077",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 81,
+            "username": "testuser078",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 82,
+            "username": "testuser079",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 83,
+            "username": "testuser080",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 84,
+            "username": "testuser081",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 85,
+            "username": "testuser082",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 86,
+            "username": "testuser083",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 87,
+            "username": "testuser084",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 88,
+            "username": "testuser085",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 89,
+            "username": "testuser086",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 90,
+            "username": "testuser087",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 91,
+            "username": "testuser088",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 92,
+            "username": "testuser089",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 93,
+            "username": "testuser090",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 94,
+            "username": "testuser091",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 95,
+            "username": "testuser092",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 96,
+            "username": "testuser093",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 97,
+            "username": "testuser094",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 98,
+            "username": "testuser095",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 99,
+            "username": "testuser096",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 100,
+            "username": "testuser097",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 101,
+            "username": "testuser098",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 102,
+            "username": "testuser099",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 103,
+            "username": "testuser100",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 104,
+            "username": "testuser101",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 105,
+            "username": "testuser102",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 106,
+            "username": "testuser103",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 107,
+            "username": "testuser104",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 108,
+            "username": "testuser105",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 109,
+            "username": "testuser106",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 110,
+            "username": "testuser107",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 111,
+            "username": "testuser108",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 112,
+            "username": "testuser109",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 113,
+            "username": "testuser110",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 114,
+            "username": "testuser111",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 115,
+            "username": "testuser112",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 116,
+            "username": "testuser113",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 117,
+            "username": "testuser114",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 118,
+            "username": "testuser115",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 119,
+            "username": "testuser116",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 120,
+            "username": "testuser117",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 121,
+            "username": "testuser118",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 122,
+            "username": "testuser119",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 123,
+            "username": "testuser120",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 124,
+            "username": "testuser121",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 125,
+            "username": "testuser122",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 126,
+            "username": "testuser123",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 127,
+            "username": "testuser124",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 128,
+            "username": "testuser125",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 129,
+            "username": "testuser126",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 130,
+            "username": "testuser127",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 131,
+            "username": "testuser128",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 132,
+            "username": "testuser129",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 133,
+            "username": "testuser130",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 134,
+            "username": "testuser131",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 135,
+            "username": "testuser132",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 136,
+            "username": "testuser133",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 137,
+            "username": "testuser134",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 138,
+            "username": "testuser135",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 139,
+            "username": "testuser136",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 140,
+            "username": "testuser137",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 141,
+            "username": "testuser138",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 142,
+            "username": "testuser139",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 143,
+            "username": "testuser140",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 144,
+            "username": "testuser141",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 145,
+            "username": "testuser142",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 146,
+            "username": "testuser143",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 147,
+            "username": "testuser144",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 148,
+            "username": "testuser145",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 149,
+            "username": "testuser146",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 150,
+            "username": "testuser147",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 151,
+            "username": "testuser148",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 152,
+            "username": "testuser149",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 153,
+            "username": "testuser150",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 154,
+            "username": "testuser151",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 155,
+            "username": "testuser152",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 156,
+            "username": "testuser153",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 157,
+            "username": "testuser154",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 158,
+            "username": "testuser155",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 159,
+            "username": "testuser156",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 160,
+            "username": "testuser157",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 161,
+            "username": "testuser158",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 162,
+            "username": "testuser159",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 163,
+            "username": "testuser160",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 164,
+            "username": "testuser161",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 165,
+            "username": "testuser162",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 166,
+            "username": "testuser163",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 167,
+            "username": "testuser164",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 168,
+            "username": "testuser165",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 169,
+            "username": "testuser166",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 170,
+            "username": "testuser167",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 171,
+            "username": "testuser168",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 172,
+            "username": "testuser169",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 173,
+            "username": "testuser170",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 174,
+            "username": "testuser171",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 175,
+            "username": "testuser172",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 176,
+            "username": "testuser173",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 177,
+            "username": "testuser174",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 178,
+            "username": "testuser175",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 179,
+            "username": "testuser176",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 180,
+            "username": "testuser177",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 181,
+            "username": "testuser178",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 182,
+            "username": "testuser179",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 183,
+            "username": "testuser180",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 184,
+            "username": "testuser181",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 185,
+            "username": "testuser182",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 186,
+            "username": "testuser183",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 187,
+            "username": "testuser184",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 188,
+            "username": "testuser185",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 189,
+            "username": "testuser186",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 190,
+            "username": "testuser187",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 191,
+            "username": "testuser188",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 192,
+            "username": "testuser189",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 193,
+            "username": "testuser190",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 194,
+            "username": "testuser191",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 195,
+            "username": "testuser192",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 196,
+            "username": "testuser193",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 197,
+            "username": "testuser194",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 198,
+            "username": "testuser195",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 199,
+            "username": "testuser196",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 200,
+            "username": "testuser197",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 201,
+            "username": "testuser198",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 202,
+            "username": "testuser199",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 203,
+            "username": "testuser200",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 204,
+            "username": "testuser201",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 205,
+            "username": "testuser202",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 206,
+            "username": "testuser203",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 207,
+            "username": "testuser204",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 208,
+            "username": "testuser205",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 209,
+            "username": "testuser206",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 210,
+            "username": "testuser207",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 211,
+            "username": "testuser208",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 212,
+            "username": "testuser209",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 213,
+            "username": "testuser210",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 214,
+            "username": "testuser211",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 215,
+            "username": "testuser212",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 216,
+            "username": "testuser213",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 217,
+            "username": "testuser214",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 218,
+            "username": "testuser215",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 219,
+            "username": "testuser216",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 220,
+            "username": "testuser217",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 221,
+            "username": "testuser218",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 222,
+            "username": "testuser219",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 223,
+            "username": "testuser220",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 224,
+            "username": "testuser221",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 225,
+            "username": "testuser222",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 226,
+            "username": "testuser223",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 227,
+            "username": "testuser224",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 228,
+            "username": "testuser225",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 229,
+            "username": "testuser226",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 230,
+            "username": "testuser227",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 231,
+            "username": "testuser228",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 232,
+            "username": "testuser229",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 233,
+            "username": "testuser230",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 234,
+            "username": "testuser231",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 235,
+            "username": "testuser232",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 236,
+            "username": "testuser233",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 237,
+            "username": "testuser234",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 238,
+            "username": "testuser235",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 239,
+            "username": "testuser236",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 240,
+            "username": "testuser237",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 241,
+            "username": "testuser238",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 242,
+            "username": "testuser239",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 243,
+            "username": "testuser240",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 244,
+            "username": "testuser241",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 245,
+            "username": "testuser242",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 246,
+            "username": "testuser243",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 247,
+            "username": "testuser244",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 248,
+            "username": "testuser245",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 249,
+            "username": "testuser246",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 250,
+            "username": "testuser247",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 251,
+            "username": "testuser248",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 252,
+            "username": "testuser249",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 253,
+            "username": "testuser250",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 254,
+            "username": "testuser251",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 255,
+            "username": "testuser252",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 256,
+            "username": "testuser253",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 257,
+            "username": "testuser254",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 258,
+            "username": "testuser255",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 259,
+            "username": "testuser256",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 260,
+            "username": "testuser257",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 261,
+            "username": "testuser258",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 262,
+            "username": "testuser259",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 263,
+            "username": "testuser260",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 264,
+            "username": "testuser261",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 265,
+            "username": "testuser262",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 266,
+            "username": "testuser263",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 267,
+            "username": "testuser264",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 268,
+            "username": "testuser265",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 269,
+            "username": "testuser266",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 270,
+            "username": "testuser267",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 271,
+            "username": "testuser268",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 272,
+            "username": "testuser269",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 273,
+            "username": "testuser270",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 274,
+            "username": "testuser271",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 275,
+            "username": "testuser272",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 276,
+            "username": "testuser273",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 277,
+            "username": "testuser274",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 278,
+            "username": "testuser275",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 279,
+            "username": "testuser276",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 280,
+            "username": "testuser277",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 281,
+            "username": "testuser278",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 282,
+            "username": "testuser279",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 283,
+            "username": "testuser280",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 284,
+            "username": "testuser281",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 285,
+            "username": "testuser282",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 286,
+            "username": "testuser283",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 287,
+            "username": "testuser284",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 288,
+            "username": "testuser285",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 289,
+            "username": "testuser286",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 290,
+            "username": "testuser287",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 291,
+            "username": "testuser288",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 292,
+            "username": "testuser289",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 293,
+            "username": "testuser290",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 294,
+            "username": "testuser291",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 295,
+            "username": "testuser292",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 296,
+            "username": "testuser293",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 297,
+            "username": "testuser294",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 298,
+            "username": "testuser295",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 299,
+            "username": "testuser296",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 300,
+            "username": "testuser297",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 301,
+            "username": "testuser298",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 302,
+            "username": "testuser299",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        },
+        {
+            "id": 303,
+            "username": "testuser300",
+            "cleared_count": 1,
+            "max_stars": 5,
+            "total_stars": 5
+        }
+    ]
+}
