@@ -1,370 +1,10 @@
 {
     "meta": {
-        "exported_at": "2025-12-27T06:34:31+00:00",
+        "exported_at": "2025-12-27T06:35:17+00:00",
         "version": "1.0"
     },
     "count": 304,
     "runs": [
-        {
-            "id": 136,
-            "user_id": 127,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser124",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 200,
-            "user_id": 191,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser188",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 264,
-            "user_id": 255,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser252",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 137,
-            "user_id": 128,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser125",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 201,
-            "user_id": 192,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser189",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 265,
-            "user_id": 256,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser253",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 138,
-            "user_id": 129,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser126",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 202,
-            "user_id": 193,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser190",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 266,
-            "user_id": 257,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser254",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 139,
-            "user_id": 130,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser127",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 203,
-            "user_id": 194,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser191",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 267,
-            "user_id": 258,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser255",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 140,
-            "user_id": 131,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser128",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 204,
-            "user_id": 195,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser192",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 268,
-            "user_id": 259,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser256",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 141,
-            "user_id": 132,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser129",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 205,
-            "user_id": 196,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser193",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 269,
-            "user_id": 260,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser257",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 142,
-            "user_id": 133,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser130",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 206,
-            "user_id": 197,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser194",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 270,
-            "user_id": 261,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser258",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 143,
-            "user_id": 134,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser131",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 207,
-            "user_id": 198,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser195",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 271,
-            "user_id": 262,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser259",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 144,
-            "user_id": 135,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser132",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 208,
-            "user_id": 199,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser196",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 272,
-            "user_id": 263,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser260",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 145,
-            "user_id": 136,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser133",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 209,
-            "user_id": 200,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser197",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 273,
-            "user_id": 264,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser261",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 146,
-            "user_id": 137,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser134",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 210,
-            "user_id": 201,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser198",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 274,
-            "user_id": 265,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser262",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 147,
-            "user_id": 138,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser135",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 211,
-            "user_id": 202,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser199",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 275,
-            "user_id": 266,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-26 23:59:51",
-            "username": "testuser263",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
         {
             "id": 148,
             "user_id": 139,
@@ -2006,6 +1646,366 @@
             "map_stars": 5
         },
         {
+            "id": 136,
+            "user_id": 127,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser124",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 200,
+            "user_id": 191,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser188",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 264,
+            "user_id": 255,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser252",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 137,
+            "user_id": 128,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser125",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 201,
+            "user_id": 192,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser189",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 265,
+            "user_id": 256,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser253",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 138,
+            "user_id": 129,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser126",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 202,
+            "user_id": 193,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser190",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 266,
+            "user_id": 257,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser254",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 139,
+            "user_id": 130,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser127",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 203,
+            "user_id": 194,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser191",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 267,
+            "user_id": 258,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser255",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 140,
+            "user_id": 131,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser128",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 204,
+            "user_id": 195,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser192",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 268,
+            "user_id": 259,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser256",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 141,
+            "user_id": 132,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser129",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 205,
+            "user_id": 196,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser193",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 269,
+            "user_id": 260,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser257",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 142,
+            "user_id": 133,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser130",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 206,
+            "user_id": 197,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser194",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 270,
+            "user_id": 261,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser258",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 143,
+            "user_id": 134,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser131",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 207,
+            "user_id": 198,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser195",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 271,
+            "user_id": 262,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser259",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 144,
+            "user_id": 135,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser132",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 208,
+            "user_id": 199,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser196",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 272,
+            "user_id": 263,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser260",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 145,
+            "user_id": 136,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser133",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 209,
+            "user_id": 200,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser197",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 273,
+            "user_id": 264,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser261",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 146,
+            "user_id": 137,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser134",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 210,
+            "user_id": 201,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser198",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 274,
+            "user_id": 265,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser262",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 147,
+            "user_id": 138,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser135",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 211,
+            "user_id": 202,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser199",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 275,
+            "user_id": 266,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-26 23:59:51",
+            "username": "testuser263",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
             "id": 112,
             "user_id": 2,
             "map_id": 9,
@@ -2014,196 +2014,6 @@
             "username": "root",
             "map_name": "笨猪2",
             "map_stars": 4
-        },
-        {
-            "id": 71,
-            "user_id": 63,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser060",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 72,
-            "user_id": 64,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser061",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 73,
-            "user_id": 65,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser062",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 74,
-            "user_id": 66,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser063",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 75,
-            "user_id": 67,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser064",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 12,
-            "user_id": 4,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser001",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 76,
-            "user_id": 68,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser065",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 13,
-            "user_id": 5,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser002",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 77,
-            "user_id": 69,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser066",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 14,
-            "user_id": 6,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser003",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 78,
-            "user_id": 70,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser067",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 15,
-            "user_id": 7,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser004",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 79,
-            "user_id": 71,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser068",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 16,
-            "user_id": 8,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser005",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 80,
-            "user_id": 72,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser069",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 17,
-            "user_id": 9,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser006",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 81,
-            "user_id": 73,
-            "map_id": 8,
-            "recommend": 0,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser070",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 18,
-            "user_id": 10,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser007",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
-        },
-        {
-            "id": 82,
-            "user_id": 74,
-            "map_id": 8,
-            "recommend": 1,
-            "created_at": "2025-12-24 02:25:13",
-            "username": "testuser071",
-            "map_name": "鉴定为笨猪",
-            "map_stars": 5
         },
         {
             "id": 19,
@@ -3012,6 +2822,196 @@
             "recommend": 0,
             "created_at": "2025-12-24 02:25:13",
             "username": "testuser059",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 71,
+            "user_id": 63,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser060",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 72,
+            "user_id": 64,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser061",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 73,
+            "user_id": 65,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser062",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 74,
+            "user_id": 66,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser063",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 75,
+            "user_id": 67,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser064",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 12,
+            "user_id": 4,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser001",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 76,
+            "user_id": 68,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser065",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 13,
+            "user_id": 5,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser002",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 77,
+            "user_id": 69,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser066",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 14,
+            "user_id": 6,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser003",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 78,
+            "user_id": 70,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser067",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 15,
+            "user_id": 7,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser004",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 79,
+            "user_id": 71,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser068",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 16,
+            "user_id": 8,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser005",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 80,
+            "user_id": 72,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser069",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 17,
+            "user_id": 9,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser006",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 81,
+            "user_id": 73,
+            "map_id": 8,
+            "recommend": 0,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser070",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 18,
+            "user_id": 10,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser007",
+            "map_name": "鉴定为笨猪",
+            "map_stars": 5
+        },
+        {
+            "id": 82,
+            "user_id": 74,
+            "map_id": 8,
+            "recommend": 1,
+            "created_at": "2025-12-24 02:25:13",
+            "username": "testuser071",
             "map_name": "鉴定为笨猪",
             "map_stars": 5
         },
